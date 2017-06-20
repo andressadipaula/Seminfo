@@ -1,0 +1,10 @@
+﻿#titulo {    
+    background-image: url('../Imagens/MANHATTAN.png');
+    text-align:center;
+    position:center;
+    position:relative;
+    float:inherit;
+    top: -2px;
+    left: -2px;
+    height: 200px;
+}

@@ -1,0 +1,19 @@
+﻿body {
+    
+}
+
+#botaoLogin{
+    text-align:right;
+    float:right;
+}
+
+/*Login não temp master page*/
+#rodape{
+    text-align:center;
+    font-size:12px;
+    font-family: 'Times New Roman';
+}
+
+h3{
+    text-align:center;
+}

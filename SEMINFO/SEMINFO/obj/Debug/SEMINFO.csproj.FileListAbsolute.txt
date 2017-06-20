@@ -1,0 +1,107 @@
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\ApplicationInsights.config
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\csc.exe
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\vbc.exe
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\SEMINFO.dll.config
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\SEMINFO.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\SEMINFO.pdb
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\obj\Debug\SEMINFO.csprojResolveAssemblyReference.cache
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\obj\Debug\SEMINFO.dll
+C:\Users\Andressa\Desktop\Trabalho Fernando\SEMINFO\SEMINFO\obj\Debug\SEMINFO.pdb
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\ApplicationInsights.config
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\csc.exe
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\vbc.exe
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\SEMINFO.dll.config
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\SEMINFO.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\SEMINFO.pdb
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\obj\Debug\SEMINFO.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\obj\Debug\SEMINFO.pdb
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\obj\Debug\SEMINFO.csprojResolveAssemblyReference.cache
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\MySql.Data.dll
+C:\Users\Andressa\Desktop\Projeto-Seminfo-2016\SEMINFO\SEMINFO\bin\MySql.Data.xml
+C:\Users\Andressa\Desktop\Trabalho Final\SEMINFO\SEMINFO\obj\Debug\SEMINFO.dll
+C:\Users\Andressa\Desktop\Trabalho Final\SEMINFO\SEMINFO\obj\Debug\SEMINFO.pdb
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\ApplicationInsights.config
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\csc.exe
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\vbc.exe
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\SEMINFO.dll.config
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\SEMINFO.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\SEMINFO.pdb
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\MySql.Data.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.Web.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\MySql.Data.xml
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\obj\Debug\SEMINFO.csprojResolveAssemblyReference.cache
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\obj\Debug\SEMINFO.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\obj\Debug\SEMINFO.pdb
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\MySql.Web.dll
+C:\Users\andre\Dropbox\Faculdade\Trabalho Final\SEMINFO\SEMINFO\bin\MySql.Web.xml
